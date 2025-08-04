@@ -78,7 +78,7 @@ Este proyecto fue realizado por **Lady Soto Dávila** como parte del programa de
 ## 📬 Contacto
 
 Puedes encontrarme en:
-- [LinkedIn](www.linkedin.com/in/lady-soto-davila-dev) 
+- [LinkedIn](https://www.linkedin.com/in/lady-soto-davila-dev/)
 - [GitHub](https://github.com/LadySoto)
 
 ---
